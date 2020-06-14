@@ -34,14 +34,13 @@ public class myAppTester {
 	   }
 
 
-	   /* 
+	
 	       add your test method in this space then remove the block comment symbols
 	       public static void myTestMethod(...){
 
             
 
 		   }
-	 
-	   */
+
 
 }
